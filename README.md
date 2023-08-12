@@ -27,3 +27,4 @@ ___
 - **Modelado de MirChaGram**
 - **Modelado de Películas y Series**
 - **Modelado de Saint Seiya: Los caballeros del zodiaco**
+- **Modelado de Entrena tu Glamour**
